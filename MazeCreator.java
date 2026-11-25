@@ -28,7 +28,7 @@ public class MazeCreator {
 	public MazeCreator() {
 		
 		//create the maze
-		createMaze(8);
+		createMaze(10);
 		
 		//set the player location
 		setStartPosition();
