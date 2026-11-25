@@ -6,8 +6,11 @@ package mazeRat;
  * Stores the cheese's location in the maze and checks whether or
  * not the player has reached it. 
  * 
+ * This commit is just a test.
+ * 
  * @author Andrew Long
  */
+
 public class Cheese {
 	
 	//The position of the cheese within the maze
